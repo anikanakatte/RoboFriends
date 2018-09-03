@@ -12,4 +12,4 @@ const Card = ({ name, email, id, sets }) => {
 	);
 }
 
-export default Card; //we are exporting only one component, hence 						default
+export default Card; //we are exporting only one component, hence default

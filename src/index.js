@@ -3,10 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 //only one so it has to be mentioned as default
  //{} means that we can export multiple objects from the file. Hence they need to destructured
- import App from './App'
- import './App.css';
-
-
+import App from './containers/App' 
 import 'tachyons';
 import registerServiceWorker from './registerServiceWorker';
 
