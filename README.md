@@ -1,2 +1,8 @@
 # RoboFriends
-A user information display and search website using React
+
+A user information display and search website.
+
+## Built With
+
+* [React](https://reactjs.org/)
+
